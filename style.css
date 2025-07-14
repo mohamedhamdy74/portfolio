@@ -31,7 +31,7 @@ body{
 }
 .separator{
     margin-top: -13px;
-    background-image: url(/imgs/separatorBlack\ 2.png );
+    background-image: url(./imgs/separatorBlack\ 2.png );
     background-size: cover;
     background-position: center;
     width: 170px;
@@ -225,8 +225,8 @@ section.visible {
 .land-scape .second-div .wrapper{
     position: absolute;
     bottom: 0;
-    width: 40%;
-    height: 80%;
+    width: 30%;
+    height: 70%;
     margin: 0 auto
 }
 .land-scape .second-div .img-div{
@@ -236,7 +236,7 @@ section.visible {
     height: 100%;
     width: 100%;
     /* padding-top: 20px; */
-    background-image:url(/imgs/profile3.png);
+    background-image:url(./imgs/profile3.png);
     background-size: cover;
     background-position: center;
 }
@@ -424,7 +424,7 @@ color: var(--main-color);
 }
 @media (max-width: 940px) {
     #skills .container{
-        grid-template-columns: repeat(3, 1fr); 
+        grid-template-columns: repeat(2, 1fr); 
     } 
 }
 /* end Skills */
@@ -614,7 +614,7 @@ color: var(--main-color);
 }
 #contact-me .contact-me-container form input,textarea{
     padding: 10px;
-    width:400px ;
+    width:300px ;
     background-color: transparent;
     outline: none;
     border-style: none none solid solid;
