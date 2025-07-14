@@ -429,12 +429,10 @@ color: var(--main-color);
 }
 /* end Skills */
 /*start projects */
-#projects{
-  
-}
+
 #projects .img{
     width: 100%;
-    background-image: url(imgs/projects\ cover.png);
+    background-image: url(./imgs/projectscover.png);
     height: 150px;
     background-size: cover;
     background-position: center;
