@@ -236,7 +236,7 @@ section.visible {
     height: 100%;
     width: 100%;
     /* padding-top: 20px; */
-    background-image:url(/imgs/profile3.png);
+    background-image:url(imgs/profile3.png);
     background-size: cover;
     background-position: center;
 }
